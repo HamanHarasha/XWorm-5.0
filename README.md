@@ -1,5 +1,5 @@
 # XWorm-5.0
-## Disclaimer: Crack was not done by me, always run in a VPS/RDP/VM.
+## Disclaimer: Crack was not done by me, always run in a VM.
 
 ![XWorm 5 0](https://github.com/HamanHarasha/XWorm-5.0/assets/135638516/ce54d49f-9b25-4da9-b28f-909518a15a81)
 
