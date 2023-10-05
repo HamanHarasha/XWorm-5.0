@@ -9,5 +9,5 @@ I am not responsible for any actions and or damages caused by this software. You
 
 
 ## Tutorial:
-### Open XWormLoader.exe and Press Enter, it will open the Settings, in the settings you need to type: @ReverseEngineeringLab in the Bin TextBox and press on Start..
+### Open XWormLoader.exe and Wait, it will open the Settings, in the settings you need to type: @ReverseEngineeringLab in the Bin TextBox and press on Start..
 ### If you just open XWorm V5.0.exe and put @ReverseEngineeringLab in the Bin TextBox it will not work "Error>> Wrong Bin"
